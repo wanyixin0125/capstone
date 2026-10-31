@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/stm32workspace/capstone_fw/Debug/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
